@@ -24,7 +24,9 @@ namespace OA_Web_Grade.Controllers
         {
             using (var client = new HttpClient())
             {
+                // Get link of API
                 client.BaseAddress = new Uri("https://localhost:7007/");
+                
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                 
