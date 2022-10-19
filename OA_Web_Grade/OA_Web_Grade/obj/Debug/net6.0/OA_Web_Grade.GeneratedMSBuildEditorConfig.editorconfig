@@ -27,6 +27,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Demo/CommunicateService_RestfulAPI/OA_Web_Grade/OA_Web_Grade/Views/Grade/StudentAPI_Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVcU3R1ZGVudEFQSV9EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Demo/CommunicateService_RestfulAPI/OA_Web_Grade/OA_Web_Grade/Views/Grade/UpdateGrade.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVcVXBkYXRlR3JhZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

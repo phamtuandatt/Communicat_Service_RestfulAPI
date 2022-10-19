@@ -34,7 +34,8 @@ namespace OA_Web_Grade.Controllers
                 {
                     var details = response.Content.ReadAsAsync<IEnumerable<Student>>().Result;
                     
-                    return Ok(details);
+                    //return Ok(details);
+                    return View(details);
                 }
                 else
                 {
