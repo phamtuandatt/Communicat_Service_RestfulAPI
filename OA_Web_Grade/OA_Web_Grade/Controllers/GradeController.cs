@@ -1,6 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using OA_Data;
 using OA_Serivce;
+using OA_Web_Grade.Models;
+using System.Net.Http.Headers;
+using System.Text.Json;
 
 namespace OA_Web_Grade.Controllers
 {
@@ -8,11 +12,38 @@ namespace OA_Web_Grade.Controllers
     {
         // Define DbContext
         private readonly IGradeService gradeService;
+        private IHttpClientFactory factory;
 
-        public GradeController(IGradeService gradeService)
+        public GradeController(IGradeService gradeService, IHttpClientFactory factory)  
         {
             this.gradeService = gradeService;
+            this.factory = factory;
         }
+
+        public async Task<IActionResult> StudentAPI_Detail()
+        {
+            using (var client = new HttpClient())
+            {
+                client.BaseAddress = new Uri("https://localhost:7007/");
+                client.DefaultRequestHeaders.Accept.Clear();
+                client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+                
+                HttpResponseMessage response = await client.GetAsync("api/StudentAPI/Get");
+
+                if (response.IsSuccessStatusCode)
+                {
+                    var details = response.Content.ReadAsAsync<IEnumerable<Student>>().Result;
+                    
+                    return Ok(details);
+                }
+                else
+                {
+                    return NotFound("No found");
+                }
+            }
+        }
+
+
 
         public IActionResult Index()
         {

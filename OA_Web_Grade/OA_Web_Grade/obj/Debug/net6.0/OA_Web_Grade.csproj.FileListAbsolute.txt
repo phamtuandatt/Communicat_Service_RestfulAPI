@@ -268,3 +268,5 @@ D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Web_Grade\bin\Debug\net6.0
 D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Web_Grade\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Web_Grade\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Web_Grade\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Web_Grade\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Web_Grade\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

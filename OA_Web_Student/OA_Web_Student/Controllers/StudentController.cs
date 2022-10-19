@@ -43,6 +43,7 @@ namespace OA_Web_Student.Controllers
                     Phone = student.Phone,
                     Email = student.Email,
                     Address = student.Address,
+                    MaLop = student.MaLop,
                 };
                 studentService.InsertStudent(st);
 
@@ -79,6 +80,7 @@ namespace OA_Web_Student.Controllers
                     Phone = student.Phone,
                     Email = student.Email,
                     Address = student.Address,
+                    MaLop = student.MaLop,
                 };
 
                 studentService.UpdateStudent(st);
@@ -101,9 +103,7 @@ namespace OA_Web_Student.Controllers
             catch 
             {
                 return NotFound("Can't delete Student");
-            }
-            
-            
+            }  
         }
     }
 }

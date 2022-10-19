@@ -13,6 +13,8 @@ builder.Services.AddControllers();
 
 builder.Services.AddRazorPages();
 
+builder.Services.AddHttpClient();
+
 // Add EntityModel
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(
 builder.Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("OA_Repo")

@@ -30,6 +30,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Address)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaLop)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -56,9 +59,9 @@
                     @Html.DisplayFor(modelItem => item.Address)
                 </td>
                 <td>
-                    @* @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                    @Html.DisplayFor(modelItem => item.MaLop)
+                </td>
+                <td>
                     <a asp-controller="Student" asp-action="UpdateStudent" asp-route-id="@item.Id" class="btn btn-primary">Update</a>
                     <a asp-controller="Student" asp-action="DeleteStudent" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
                 </td>

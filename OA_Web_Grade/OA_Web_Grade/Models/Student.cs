@@ -1,4 +1,4 @@
-﻿namespace OA_Data
+﻿namespace OA_Web_Grade.Models
 {
     public class Student
     {
@@ -9,6 +9,5 @@
         public string Email { get; set; }
         public string Address { get; set; }
         public int MaLop { get; set; }
-
     }
 }
