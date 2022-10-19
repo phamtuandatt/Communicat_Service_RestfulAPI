@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Web_Grade
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Demo/CommunicateService_RestfulAPI/OA_Web_Grade/OA_Web_Grade/Views/Grade/AddGrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVcQWRkR3JhZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Demo/CommunicateService_RestfulAPI/OA_Web_Grade/OA_Web_Grade/Views/Grade/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Demo/CommunicateService_RestfulAPI/OA_Web_Grade/OA_Web_Grade/Views/Grade/UpdateGrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhZGVcVXBkYXRlR3JhZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Demo/CommunicateService_RestfulAPI/OA_Web_Grade/OA_Web_Grade/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

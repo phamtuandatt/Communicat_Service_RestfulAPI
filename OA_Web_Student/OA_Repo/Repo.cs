@@ -50,7 +50,8 @@ namespace OA_Repo
 
         public void Update(T item)
         {
-            throw new NotImplementedException();
+            _context.Update(item);
+            _context.SaveChanges();
         }
     }
 }
