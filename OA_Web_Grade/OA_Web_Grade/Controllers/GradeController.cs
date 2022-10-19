@@ -29,7 +29,7 @@ namespace OA_Web_Grade.Controllers
                 
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-                
+                // Access API
                 HttpResponseMessage response = await client.GetAsync("api/StudentAPI/Get");
 
                 if (response.IsSuccessStatusCode)
