@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA_Web_Student", "OA_Web_Student\OA_Web_Student.csproj", "{3D4EA4CC-5B6B-4FA8-B81A-B558A64AC6F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA_Web_Student", "OA_Web_Student\OA_Web_Student.csproj", "{3D4EA4CC-5B6B-4FA8-B81A-B558A64AC6F9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA_Data", "OA_Data\OA_Data.csproj", "{7B823479-BFBA-4765-9394-59F162BFF3CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA_Data", "OA_Data\OA_Data.csproj", "{7B823479-BFBA-4765-9394-59F162BFF3CE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA_Repo", "OA_Repo\OA_Repo.csproj", "{33EADD8D-E151-4573-9C53-4DA9BFD8FE63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA_Repo", "OA_Repo\OA_Repo.csproj", "{33EADD8D-E151-4573-9C53-4DA9BFD8FE63}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA_Service", "OA_Service\OA_Service.csproj", "{26BBEF13-C757-46F8-A86D-D227DC3EE31F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA_Service", "OA_Service\OA_Service.csproj", "{26BBEF13-C757-46F8-A86D-D227DC3EE31F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

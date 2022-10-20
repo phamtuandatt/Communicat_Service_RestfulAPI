@@ -1,0 +1,17 @@
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\bin\Debug\net6.0\OA_Serivce.deps.json
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\bin\Debug\net6.0\OA_Serivce.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\bin\Debug\net6.0\OA_Serivce.pdb
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\bin\Debug\net6.0\OA_Data.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\bin\Debug\net6.0\OA_Repo.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\bin\Debug\net6.0\OA_Data.pdb
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\bin\Debug\net6.0\OA_Repo.pdb
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\OA_Serivce.csproj.AssemblyReference.cache
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\OA_Serivce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\OA_Serivce.AssemblyInfoInputs.cache
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\OA_Serivce.AssemblyInfo.cs
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\OA_Serivce.csproj.CoreCompileInputs.cache
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\OA_Serivce.csproj.CopyComplete
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\OA_Serivce.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\refint\OA_Serivce.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\OA_Serivce.pdb
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Serivce\obj\Debug\net6.0\ref\OA_Serivce.dll

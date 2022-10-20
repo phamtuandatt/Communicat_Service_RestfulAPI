@@ -1,0 +1,12 @@
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\bin\Debug\net6.0\OA_Data.deps.json
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\bin\Debug\net6.0\OA_Data.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\bin\Debug\net6.0\OA_Data.pdb
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\obj\Debug\net6.0\OA_Data.csproj.AssemblyReference.cache
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\obj\Debug\net6.0\OA_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\obj\Debug\net6.0\OA_Data.AssemblyInfoInputs.cache
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\obj\Debug\net6.0\OA_Data.AssemblyInfo.cs
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\obj\Debug\net6.0\OA_Data.csproj.CoreCompileInputs.cache
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\obj\Debug\net6.0\OA_Data.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\obj\Debug\net6.0\refint\OA_Data.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\obj\Debug\net6.0\OA_Data.pdb
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Grade\OA_Data\obj\Debug\net6.0\ref\OA_Data.dll
