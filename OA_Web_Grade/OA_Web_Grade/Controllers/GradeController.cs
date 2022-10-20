@@ -34,6 +34,7 @@ namespace OA_Web_Grade.Controllers
 
                 if (response.IsSuccessStatusCode)
                 {
+                    // Read data
                     var details = response.Content.ReadAsAsync<IEnumerable<Student>>().Result;
                     
                     //return Ok(details);
