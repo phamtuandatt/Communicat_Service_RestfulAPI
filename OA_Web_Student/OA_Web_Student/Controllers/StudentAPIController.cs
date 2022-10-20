@@ -6,7 +6,6 @@ using OA_Service;
 namespace OA_Web_Student.Controllers
 {
     [Route("api/[controller]")]
-    [ApiController]
     public class StudentAPIController : ControllerBase
     {
         private readonly IStudentService studentService;
@@ -21,6 +20,13 @@ namespace OA_Web_Student.Controllers
         public IEnumerable<Student> Get()
         {
             return studentService.GetStudents();
+        }
+
+        [HttpGet("list")]
+        [Route("students")]
+        public IActionResult students()
+        {
+            return Ok(studentService.GetStudents());
         }
     }
 }
