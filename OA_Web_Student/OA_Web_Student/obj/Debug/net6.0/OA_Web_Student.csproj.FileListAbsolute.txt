@@ -268,3 +268,12 @@ D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\ne
 D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\EntityFramework.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\System.CodeDom.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Demo\CommunicateService_RestfulAPI\OA_Web_Student\OA_Web_Student\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

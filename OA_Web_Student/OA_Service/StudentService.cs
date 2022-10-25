@@ -33,9 +33,10 @@ namespace OA_Service
             return _dbContext.GetAll();
         }
 
-        public void InsertStudent(Student student)
+        public Student InsertStudent(Student student)
         {
             _dbContext.Insert(student);
+            return student;
         }
 
         public void UpdateStudent(Student student)

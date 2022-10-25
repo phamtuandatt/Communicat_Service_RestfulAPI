@@ -16,7 +16,7 @@ namespace OA_Service
         Student GetStudent(int id);
 
         // Insert Student
-        void InsertStudent(Student student);
+        Student InsertStudent(Student student);
 
         // Update Student
         void UpdateStudent(Student student);

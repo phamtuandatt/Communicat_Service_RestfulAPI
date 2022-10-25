@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.EntityFrameworkCore.Storage;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +21,7 @@ namespace OA_Repo
             _context = context;
             _table = _context.Set<T>();
         }
-    
+
         public void Delete(T item)
         {
             _table.Remove(item);
@@ -37,10 +38,11 @@ namespace OA_Repo
             return _table.AsEnumerable();
         }
 
-        public void Insert(T item)
+        public T Insert(T item)
         {
             _table.Add(item);
             _context.SaveChanges();
+            return item;
         }
 
         public void SaveChanges()

@@ -10,7 +10,7 @@ namespace OA_Repo
     {
         IEnumerable<T> GetAll();
         T Get(int id);
-        void Insert(T item);
+        T Insert(T item);
         void Update(T item);
         void Delete(T item);
         void SaveChanges();
